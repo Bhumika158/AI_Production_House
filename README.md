@@ -28,6 +28,10 @@ This project is built on a **modular, agent-based architecture**, where each aut
 - `video_generator` & `audio_generator`: Run in **parallel** for faster multimedia output  
 - `editor_in_chief`: Finalizes content before publishing  
 
+<br>
+
+![AI Production Studio Agent Flow](./final_image.png)
+
 ---
 
 ## 📁 Folder Structure
@@ -36,7 +40,8 @@ This project is built on a **modular, agent-based architecture**, where each aut
 📂 ai_production_studio/
 ├── agents/                      # All autonomous agent logic
 ├── final_dynamic_video.mp4      # Output video sample
-├── output_audio.mp3            # Output audio sample
+├── output_audio.mp3             # Output audio sample
+├── final_image.png              # Agent Flow
 ├── .env.example                 # Environment variable template
 ├── app.py                       # Streamlit app launcher
 ├── requirements.txt             # Python dependencies
