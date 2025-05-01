@@ -30,7 +30,7 @@ This project is built on a **modular, agent-based architecture**, where each aut
 
 <br>
 
-![AI Production Studio Agent Flow](./final_image.png)
+![AI Production Studio Agent Flow](https://github.com/Bhumika158/AI_Production_House/blob/main/final_image.png?raw=true)
 
 ---
 
