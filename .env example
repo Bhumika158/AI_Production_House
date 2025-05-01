@@ -1,0 +1,7 @@
+SERPAPI_KEY=yourserpAPIkey
+OPENAI_API_KEY=yourAPenAOKEY
+GEMINI_API_KEY=yourGeminiAPIKey
+ELEVENLABS_API_KEY=yourElevenLabsAPIKey
+WHATSAPP_PHONE_ID=yourWhatsappId
+WHATSAPP_TOKEN=yourWhatsappToken
+TEST_RECIPIENT_PHONE=yourrecipientPhone
