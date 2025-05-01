@@ -1,0 +1,11 @@
+streamlit
+serpapi
+python-dotenv
+openai
+google-generativeai
+opencv-python 
+ffmpeg-python 
+gTTS 
+numpy
+elevenlabs
+pillow
