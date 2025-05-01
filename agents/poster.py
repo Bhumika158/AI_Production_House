@@ -226,16 +226,4 @@ def send_audio(media_id):
     print("✅ Audio response:", r.status_code, r.text)
 
 
-# if __name__ == "__main__":
-#     # Step 1: Send hello_world template
-#     send_hello_world_template()
-
-#     # Step 2: Wait for user confirmation (manual or time delay)
-#     input("⏳ Waiting for user reply... Press Enter to continue once replied.")
-
-#     # Step 3: Upload & send audio + message
-#     media_id = upload_audio(audio_path)
-#     if media_id:
-#         send_text(text_message)
-#         send_audio(media_id)
 
